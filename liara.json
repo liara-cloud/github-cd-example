@@ -3,8 +3,7 @@
     "app": "github-cd-example",
     "port": 8000,
     "node": {
-        "version": "12",
-        "timezone": "Asia/tehran",
-        "npmAudit": true
+        "version": "18",
+        "timezone": "Asia/tehran"
     }
 }
